@@ -1,0 +1,7 @@
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\bin\Debug\t1.exe.config
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\bin\Debug\t1.exe
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\bin\Debug\t1.pdb
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\obj\Debug\t1.exe
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\obj\Debug\t1.pdb
+D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\t1\obj\Debug\t1.csprojAssemblyReference.cache
