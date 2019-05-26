@@ -11,3 +11,10 @@ D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.
 D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
 D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
 D:\Studia\Sem4\Syst.szt.int\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojAssemblyReference.cache
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+D:\Programowanie\Projekty\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

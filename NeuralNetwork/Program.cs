@@ -5,8 +5,8 @@ namespace NeuralNetwork
 {
     class Program
     {
-        public static float LearningRate = 0.017f;
-        public static ActivationFunctionClient ActivactionFunction = new ActivationFunctionClient(new SwishActivationFunction());
+        public static float LearningRate = 0.01f;
+        public static ActivationFunctionClient ActivactionFunction = new ActivationFunctionClient(new TanHActivationFunction());
 
         static void Main(string[] args)
         {
@@ -52,8 +52,8 @@ namespace NeuralNetwork
             Debug.WriteLine(net.FeedForward(new float[] { 1, 1, 0 })[0]);
             Debug.WriteLine(net.FeedForward(new float[] { 1, 1, 1 })[0]);
             Debug.WriteLine("");
-            Debug.WriteLine(net.GetMaxTotalError());
-            Debug.WriteLine(net.GetMinTotalError());
+            //Debug.WriteLine(net.GetMaxTotalError());
+            //Debug.WriteLine(net.GetMinTotalError());
             Debug.WriteLine(net.GetTotalError());
         }
     }

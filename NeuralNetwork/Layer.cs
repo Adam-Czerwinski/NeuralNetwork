@@ -128,19 +128,20 @@ namespace NeuralNetwork
         /// <param name="expected">Oczekiwana wartość w warstwie wyjściowej</param>
         public void BackPropOutput(float[] expected)
         {
-            ////TAKI ZBĘDNY DODATEK KTÓRY RÓŻNIE DZIAŁA
-            //totalError = 0.0f;
-            ////Oblicza MSE
-            //for (int i = 0; i < numberOfOuputs; i++)
-            //{
-            //    totalError += ((expected[i] - outputs[i]) * (expected[i] - outputs[i]));
-            //}
-            //totalError = (1.0f / 2.0f) * totalError;
+            //TAKI ZBĘDNY DODATEK KTÓRY RÓŻNIE DZIAŁA
+            totalError = 0.0f;
+            //Oblicza MSE
+            for (int i = 0; i < numberOfOuputs; i++)
+            {
+                totalError += ((expected[i] - outputs[i]) * (expected[i] - outputs[i]));
+            }
+            totalError = (1.0f / 2.0f) * totalError;
 
-            //if (totalError > maxError)
-            //    maxError = totalError;
-            //if (totalError < minError && totalError > 0.000001f)
-            //    minError = totalError;
+            if (totalError > maxError)
+                maxError = totalError;
+            if (totalError < minError && totalError > 0.0000001f)
+                minError = totalError;
+            
 
 
             /* Nasza delta (patrz załączone wzory)
